@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Preisrahmen
 
-****
+**Wer einen dynamischen Strompreisvertrag wählt, bekommt vom Energielieferanten keine festen kWh-Preise mehr, sondern stündlich wechselnde Tarife. Um die günstigsten Stunden optimal zu nutzen, haben wir unseren Preisrahmen entwickelt. Täglich ruft er die für den nächsten Tag festgelegten Preise ab und zeigt sie auf seinem ePaper-Display an.**
 
 ![Taupunktluefter](./Taupunktluefter.jpg)
 
