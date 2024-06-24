@@ -18,5 +18,5 @@ Der im Schaltplan gezeigte _Modusschalter_ ist ein Schalter mit drei Schaltstell
 
 Die wichtigsten Fragen rund um den Taupunktlüfter beantwortet eine **[FAQ](https://heise.de/-6526328)**. Die vollständigen Artikel zum Projekt gibt es in der **[Make-Ausgabe 1/22 ab Seite 22](https://www.heise.de/select/make/2022/1/2135511212557842576)** und in der **[Make-Ausgabe 2/22 ab Seite 82](https://www.heise.de/select/make/2022/2/2204711461516715363)** zu lesen.
 
-Dank Patrick alias _resipat265_ aus dem heise-Forum gibt es jetzt auch eine Vorlage für den Nachbau auf **[Lochraster-Platine](./Lochraster/Lochraster.md)**. Vielen Dank dafür!
+
 # Preisrahmen
