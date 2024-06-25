@@ -11,5 +11,3 @@ Maker Media GmbH
 ![Preisrahmen](./Preisrahmen_Holz.jpg)
 
 Der vollständige Artikel zum Projekt erscheint in der Make 4/24.
-
-# Preisrahmen
